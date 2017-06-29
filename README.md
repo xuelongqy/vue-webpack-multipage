@@ -4,7 +4,7 @@
 
 Learn more from blog: [http://www.cnblogs.com/xuelongqy/p/7081419.html](http://www.cnblogs.com/xuelongqy/p/7081419.html)
  
-**Sorry, my English is poor. I would appreciate it if you translate it into Chinese.**
+**Sorry, my English is poor. I would appreciate it if you translate it into English.**
 
 ## Build Setup
 
